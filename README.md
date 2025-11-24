@@ -1,12 +1,12 @@
-# **Detector de Fake News - Liga de Data Science (LDS)**
+# **Detector de Fake News - Liga de Data Science (DS)**
 
 
 
-#### Este projeto consiste em uma aplicação web capaz de classificar notícias americanas como Reais ou Falsas (Fake News) utilizando Processamento de Linguagem Natural (NLP) e Machine Learning. A aplicação foi desenvolvida como parte do ciclo de projetos da Liga de Data Science, focando na identificação de padrões linguísticos e de formatação (Nível 1).
+### Este projeto consiste em uma aplicação web capaz de classificar notícias americanas como Reais ou Falsas (Fake News) utilizando Processamento de Linguagem Natural (NLP) e Machine Learning. A aplicação foi desenvolvida como parte do ciclo de projetos da Liga de Data Science, focando na identificação de padrões linguísticos e de formatação (Nível 1).
 
 
 
-###### **Equipe do Projeto**
+##### **Equipe do Projeto**
 
 
 
@@ -24,7 +24,7 @@ Gabriela Nogueira: Documentação e Implementação Web
 
 
 
-###### **Sobre o Modelo**
+##### **Sobre o Modelo**
 
 
 
@@ -38,7 +38,7 @@ Notícias reais tendem a ser formais e padronizadas, enquanto Fake News abusam d
 
 
 
-###### **Como Rodar Localmente**
+##### **Como Rodar Localmente**
 
 
 
@@ -54,7 +54,7 @@ Upload dos Dados: Ao abrir a aplicação, faça o upload dos arquivos True.csv e
 
 
 
-###### **Stack Tecnológica**
+##### **Stack Tecnológica**
 
 
 
@@ -65,4 +65,5 @@ Interface: Streamlit
 Machine Learning: Scikit-Learn
 
 Manipulação de Dados: Pandas \& Numpy
+
 
