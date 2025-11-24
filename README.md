@@ -6,7 +6,7 @@
 
 
 
-###### Equipe do Projeto
+###### **Equipe do Projeto**
 
 
 
@@ -24,7 +24,7 @@ Gabriela Nogueira: Documentação e Implementação Web
 
 
 
-###### Sobre o Modelo
+###### **Sobre o Modelo**
 
 
 
@@ -38,7 +38,7 @@ Notícias reais tendem a ser formais e padronizadas, enquanto Fake News abusam d
 
 
 
-###### Como Rodar Localmente
+###### **Como Rodar Localmente**
 
 
 
@@ -54,7 +54,7 @@ Upload dos Dados: Ao abrir a aplicação, faça o upload dos arquivos True.csv e
 
 
 
-###### Stack Tecnológica
+###### **Stack Tecnológica**
 
 
 
